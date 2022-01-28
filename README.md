@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KamlaSaad
+- 👋 Hi, I’m KamlaSaad
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on flutter and frontend(web)
+- 📫 You can reach me using email (kamlaa_saad888@yahoo.com)
 
 <!---
 KamlaSaad/KamlaSaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
